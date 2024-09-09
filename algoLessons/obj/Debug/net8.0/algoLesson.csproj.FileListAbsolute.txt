@@ -1,0 +1,29 @@
+D:\SOFTWERE ENGENEERING\my programing\c#\c_sharp_lessons\C_sharp_algo_Lecture_work\algoLesson\bin\Debug\net8.0\algoLesson.exe
+D:\SOFTWERE ENGENEERING\my programing\c#\c_sharp_lessons\C_sharp_algo_Lecture_work\algoLesson\bin\Debug\net8.0\algoLesson.deps.json
+D:\SOFTWERE ENGENEERING\my programing\c#\c_sharp_lessons\C_sharp_algo_Lecture_work\algoLesson\bin\Debug\net8.0\algoLesson.runtimeconfig.json
+D:\SOFTWERE ENGENEERING\my programing\c#\c_sharp_lessons\C_sharp_algo_Lecture_work\algoLesson\bin\Debug\net8.0\algoLesson.dll
+D:\SOFTWERE ENGENEERING\my programing\c#\c_sharp_lessons\C_sharp_algo_Lecture_work\algoLesson\bin\Debug\net8.0\algoLesson.pdb
+D:\SOFTWERE ENGENEERING\my programing\c#\c_sharp_lessons\C_sharp_algo_Lecture_work\algoLesson\obj\Debug\net8.0\algoLesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWERE ENGENEERING\my programing\c#\c_sharp_lessons\C_sharp_algo_Lecture_work\algoLesson\obj\Debug\net8.0\algoLesson.AssemblyInfoInputs.cache
+D:\SOFTWERE ENGENEERING\my programing\c#\c_sharp_lessons\C_sharp_algo_Lecture_work\algoLesson\obj\Debug\net8.0\algoLesson.AssemblyInfo.cs
+D:\SOFTWERE ENGENEERING\my programing\c#\c_sharp_lessons\C_sharp_algo_Lecture_work\algoLesson\obj\Debug\net8.0\algoLesson.csproj.CoreCompileInputs.cache
+D:\SOFTWERE ENGENEERING\my programing\c#\c_sharp_lessons\C_sharp_algo_Lecture_work\algoLesson\obj\Debug\net8.0\algoLesson.sourcelink.json
+D:\SOFTWERE ENGENEERING\my programing\c#\c_sharp_lessons\C_sharp_algo_Lecture_work\algoLesson\obj\Debug\net8.0\algoLesson.dll
+D:\SOFTWERE ENGENEERING\my programing\c#\c_sharp_lessons\C_sharp_algo_Lecture_work\algoLesson\obj\Debug\net8.0\refint\algoLesson.dll
+D:\SOFTWERE ENGENEERING\my programing\c#\c_sharp_lessons\C_sharp_algo_Lecture_work\algoLesson\obj\Debug\net8.0\algoLesson.pdb
+D:\SOFTWERE ENGENEERING\my programing\c#\c_sharp_lessons\C_sharp_algo_Lecture_work\algoLesson\obj\Debug\net8.0\algoLesson.genruntimeconfig.cache
+D:\SOFTWERE ENGENEERING\my programing\c#\c_sharp_lessons\C_sharp_algo_Lecture_work\algoLesson\obj\Debug\net8.0\ref\algoLesson.dll
+C:\Users\Kavindu Kaveesha\Downloads\C_sharp_algo_Lecture_work-c28c5abd19ccc47db4f1fc1dc70c644d4bc7623f\28827\bin\Debug\net8.0\algoLesson.exe
+C:\Users\Kavindu Kaveesha\Downloads\C_sharp_algo_Lecture_work-c28c5abd19ccc47db4f1fc1dc70c644d4bc7623f\28827\bin\Debug\net8.0\algoLesson.deps.json
+C:\Users\Kavindu Kaveesha\Downloads\C_sharp_algo_Lecture_work-c28c5abd19ccc47db4f1fc1dc70c644d4bc7623f\28827\bin\Debug\net8.0\algoLesson.runtimeconfig.json
+C:\Users\Kavindu Kaveesha\Downloads\C_sharp_algo_Lecture_work-c28c5abd19ccc47db4f1fc1dc70c644d4bc7623f\28827\bin\Debug\net8.0\algoLesson.dll
+C:\Users\Kavindu Kaveesha\Downloads\C_sharp_algo_Lecture_work-c28c5abd19ccc47db4f1fc1dc70c644d4bc7623f\28827\bin\Debug\net8.0\algoLesson.pdb
+C:\Users\Kavindu Kaveesha\Downloads\C_sharp_algo_Lecture_work-c28c5abd19ccc47db4f1fc1dc70c644d4bc7623f\28827\obj\Debug\net8.0\algoLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kavindu Kaveesha\Downloads\C_sharp_algo_Lecture_work-c28c5abd19ccc47db4f1fc1dc70c644d4bc7623f\28827\obj\Debug\net8.0\algoLesson.AssemblyInfoInputs.cache
+C:\Users\Kavindu Kaveesha\Downloads\C_sharp_algo_Lecture_work-c28c5abd19ccc47db4f1fc1dc70c644d4bc7623f\28827\obj\Debug\net8.0\algoLesson.AssemblyInfo.cs
+C:\Users\Kavindu Kaveesha\Downloads\C_sharp_algo_Lecture_work-c28c5abd19ccc47db4f1fc1dc70c644d4bc7623f\28827\obj\Debug\net8.0\algoLesson.csproj.CoreCompileInputs.cache
+C:\Users\Kavindu Kaveesha\Downloads\C_sharp_algo_Lecture_work-c28c5abd19ccc47db4f1fc1dc70c644d4bc7623f\28827\obj\Debug\net8.0\algoLesson.dll
+C:\Users\Kavindu Kaveesha\Downloads\C_sharp_algo_Lecture_work-c28c5abd19ccc47db4f1fc1dc70c644d4bc7623f\28827\obj\Debug\net8.0\refint\algoLesson.dll
+C:\Users\Kavindu Kaveesha\Downloads\C_sharp_algo_Lecture_work-c28c5abd19ccc47db4f1fc1dc70c644d4bc7623f\28827\obj\Debug\net8.0\algoLesson.pdb
+C:\Users\Kavindu Kaveesha\Downloads\C_sharp_algo_Lecture_work-c28c5abd19ccc47db4f1fc1dc70c644d4bc7623f\28827\obj\Debug\net8.0\algoLesson.genruntimeconfig.cache
+C:\Users\Kavindu Kaveesha\Downloads\C_sharp_algo_Lecture_work-c28c5abd19ccc47db4f1fc1dc70c644d4bc7623f\28827\obj\Debug\net8.0\ref\algoLesson.dll
