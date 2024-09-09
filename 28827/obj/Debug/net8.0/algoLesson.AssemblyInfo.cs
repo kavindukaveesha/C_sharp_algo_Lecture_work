@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("algoLesson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c28c5abd19ccc47db4f1fc1dc70c644d4bc7623f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d45bdb728fd244561e3a78163ece6234369e1b96")]
 [assembly: System.Reflection.AssemblyProductAttribute("algoLesson")]
 [assembly: System.Reflection.AssemblyTitleAttribute("algoLesson")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

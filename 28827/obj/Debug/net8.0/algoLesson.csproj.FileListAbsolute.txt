@@ -13,3 +13,11 @@ D:\SOFTWERE ENGENEERING\my programing\c#\c_sharp_lessons\C_sharp_algo_Lecture_wo
 D:\SOFTWERE ENGENEERING\my programing\c#\c_sharp_lessons\C_sharp_algo_Lecture_work\algoLesson\obj\Debug\net8.0\algoLesson.pdb
 D:\SOFTWERE ENGENEERING\my programing\c#\c_sharp_lessons\C_sharp_algo_Lecture_work\algoLesson\obj\Debug\net8.0\algoLesson.genruntimeconfig.cache
 D:\SOFTWERE ENGENEERING\my programing\c#\c_sharp_lessons\C_sharp_algo_Lecture_work\algoLesson\obj\Debug\net8.0\ref\algoLesson.dll
+D:\SOFTWERE ENGENEERING\my programing\c#\c_sharp_lessons\C_sharp_algo_Lecture_work\28827\obj\Debug\net8.0\algoLesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWERE ENGENEERING\my programing\c#\c_sharp_lessons\C_sharp_algo_Lecture_work\28827\obj\Debug\net8.0\algoLesson.AssemblyInfoInputs.cache
+D:\SOFTWERE ENGENEERING\my programing\c#\c_sharp_lessons\C_sharp_algo_Lecture_work\28827\obj\Debug\net8.0\algoLesson.AssemblyInfo.cs
+D:\SOFTWERE ENGENEERING\my programing\c#\c_sharp_lessons\C_sharp_algo_Lecture_work\28827\obj\Debug\net8.0\algoLesson.csproj.CoreCompileInputs.cache
+D:\SOFTWERE ENGENEERING\my programing\c#\c_sharp_lessons\C_sharp_algo_Lecture_work\28827\obj\Debug\net8.0\algoLesson.sourcelink.json
+D:\SOFTWERE ENGENEERING\my programing\c#\c_sharp_lessons\C_sharp_algo_Lecture_work\28827\obj\Debug\net8.0\algoLesson.dll
+D:\SOFTWERE ENGENEERING\my programing\c#\c_sharp_lessons\C_sharp_algo_Lecture_work\28827\obj\Debug\net8.0\refint\algoLesson.dll
+D:\SOFTWERE ENGENEERING\my programing\c#\c_sharp_lessons\C_sharp_algo_Lecture_work\28827\obj\Debug\net8.0\algoLesson.pdb

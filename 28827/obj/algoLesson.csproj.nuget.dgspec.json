@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SOFTWERE ENGENEERING\\my programing\\c#\\c_sharp_lessons\\C_sharp_algo_Lecture_work\\algoLesson\\algoLesson.csproj": {}
+    "D:\\SOFTWERE ENGENEERING\\my programing\\c#\\c_sharp_lessons\\C_sharp_algo_Lecture_work\\28827\\algoLesson.csproj": {}
   },
   "projects": {
-    "D:\\SOFTWERE ENGENEERING\\my programing\\c#\\c_sharp_lessons\\C_sharp_algo_Lecture_work\\algoLesson\\algoLesson.csproj": {
+    "D:\\SOFTWERE ENGENEERING\\my programing\\c#\\c_sharp_lessons\\C_sharp_algo_Lecture_work\\28827\\algoLesson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SOFTWERE ENGENEERING\\my programing\\c#\\c_sharp_lessons\\C_sharp_algo_Lecture_work\\algoLesson\\algoLesson.csproj",
+        "projectUniqueName": "D:\\SOFTWERE ENGENEERING\\my programing\\c#\\c_sharp_lessons\\C_sharp_algo_Lecture_work\\28827\\algoLesson.csproj",
         "projectName": "algoLesson",
-        "projectPath": "D:\\SOFTWERE ENGENEERING\\my programing\\c#\\c_sharp_lessons\\C_sharp_algo_Lecture_work\\algoLesson\\algoLesson.csproj",
+        "projectPath": "D:\\SOFTWERE ENGENEERING\\my programing\\c#\\c_sharp_lessons\\C_sharp_algo_Lecture_work\\28827\\algoLesson.csproj",
         "packagesPath": "C:\\Users\\Kavindu Kaveesha\\.nuget\\packages\\",
-        "outputPath": "D:\\SOFTWERE ENGENEERING\\my programing\\c#\\c_sharp_lessons\\C_sharp_algo_Lecture_work\\algoLesson\\obj\\",
+        "outputPath": "D:\\SOFTWERE ENGENEERING\\my programing\\c#\\c_sharp_lessons\\C_sharp_algo_Lecture_work\\28827\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Visual Studio\\SDK\\NuGetPackages"
