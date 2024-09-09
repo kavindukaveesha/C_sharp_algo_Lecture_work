@@ -103,11 +103,11 @@ class Program
 
 
         /**********************  Find GCD using Iteration****************/
-        Console.Write("Enter a number1 to find its GCD using Iteration: ");
+        Console.Write("Enter a number1 to find  GCD using Iteration: ");
         // Get input from the user
         string GCDNum3 = Console.ReadLine();
 
-        Console.Write("Enter a number2 to find its GCD using Iteration: ");
+        Console.Write("Enter a number2 to find  GCD using Iteration: ");
         // Get input from the user
         string GCDNum4 = Console.ReadLine();
 
@@ -121,6 +121,63 @@ class Program
             Console.WriteLine("Invalid inputs. Please enter a valid numbers.");
         }
         /**********************End of Find GCD using Iteration****************/
+
+        /********************** Binary Search using Recursion****************/
+
+        //sorted array
+        int[] input = { 1, 4, 10, 44, 66, 88, 99, 100 };
+        Console.Write("Enter a number to find using Binary Search(Recursion): ");
+        // Get input from the user
+        string searchnum = Console.ReadLine();
+
+
+        if (int.TryParse(searchnum, out int searchNum))
+        {
+            long result = Binary_Search.BinarySearchUsingRecursion(input, 0, input.Length, searchNum);
+            if (result >= 0)
+            {
+                Console.WriteLine($"The Target {searchNum} find at index {result}");
+            }
+            else
+            {
+                Console.WriteLine($"The Target {searchNum} not found!!");
+
+            }
+        }
+        else
+        {
+            Console.WriteLine("Invalid inputs. Please enter a valid numbers.");
+        }
+        /**********************End of  Binary Search using Recursion****************/
+
+        /********************** Binary Search using Iteration****************/
+        //sorted array
+        int[] input1 = { 1, 4, 10, 44, 66, 88, 99, 100 };
+        Console.Write("Enter a number to find using Binary Search(Iteration): ");
+        // Get input from the user
+        string searchnum1 = Console.ReadLine();
+
+
+        if (int.TryParse(searchnum1, out int searchNum1))
+        {
+            long result = Binary_Search_Iteration.BinarySearchUsingIteration(searchNum1, input1);
+            if (result >= 0)
+            {
+                Console.WriteLine($"The Target {searchNum1} find at index {result}");
+            }
+            else
+            {
+                Console.WriteLine($"The Target {searchNum1} not found!!");
+
+            }
+        }
+        else
+        {
+            Console.WriteLine("Invalid inputs. Please enter a valid numbers.");
+        }
+        /**********************End of  Binary Search using Iteration****************/
+
+
 
 
 
